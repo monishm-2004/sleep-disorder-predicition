@@ -1,0 +1,16 @@
+# Models
+models/
+*.pkl
+*.joblib
+
+
+# Data
+
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+*/.cache
